@@ -19,3 +19,12 @@
 - Divided codebase amongst team-members to refactor
 - Finalized refactoring required for code
 - Started preparing final design document
+
+### Feb 10
+- Discussed progress and finalized refactored code.
+- Started generating final metrics and UML diagrams.
+- Finished initial design section of design document
+
+### Feb 12
+- Finalized design document
+- Computed final metrics
